@@ -1,4 +1,4 @@
-#EXTM3U
+es#EXTM3U
 
 ############################################################################ Informações 
 
@@ -1472,14 +1472,14 @@ http://shd9.mflixhd.xyz/token/SHD9/205715/1x6.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="SERIES | GEN V S01",S01 E07
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x7.mp4
 
-#################################  Filmes 3D  ###########################################
+#################################  Avatar no caminho da Agua   ###########################################
 
-#EXTINF:-1 tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2022/11/avatar-o-caminho-da-agua-poster-0211.jpg" group-title="Filmes 3D | Avatar no Caminho da Agua 3D parte1
+#EXTINF:-1 tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2022/11/avatar-o-caminho-da-agua-poster-0211.jpg" group-title="Filmes 3D | Avatar no Caminho da Agua 3D" ,parte1
 https://drive.google.com/file/d/1IvRmH-x0F2-dyAHSEYVVo5qTzNUMjQRb/view?usp=sharing
 
-#EXTINF:-1 tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2022/11/avatar-o-caminho-da-agua-poster-0211.jpg" group-title="Filmes 3D | Avatar no Caminho da Agua 3D parte2
+#EXTINF:-1 tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2022/11/avatar-o-caminho-da-agua-poster-0211.jpg" group-title="Filmes 3D | Avatar no Caminho da Agua 3D" ,parte2
 https://drive.google.com/file/d/1WdjU7DccHVqEXiF_FkxVdR4zciYKYeIJ/view?usp=sharing
 
-#EXTINF:-1 tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2022/11/avatar-o-caminho-da-agua-poster-0211.jpg" group-title="Filmes 3D | Avatar no Caminho da Agua 3D parte3
+#EXTINF:-1 tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2022/11/avatar-o-caminho-da-agua-poster-0211.jpg" group-title="Filmes 3D | Avatar no Caminho da Agua 3D" ,parte3
 https://drive.google.com/file/d/1b7dKNWQyfUP3lt2hOthy0ppyPnH-TlIk/view?usp=sharing
 
